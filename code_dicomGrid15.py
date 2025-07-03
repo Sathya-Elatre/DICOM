@@ -4,7 +4,7 @@ import numpy as np
 import os
 import math
 
-# --- Prerequisite Reminder ---
+# --- Prerequisite Reminder ---z
 # This code requires special JPEG decoders. If you haven't already,
 # make sure you have installed them in your environment:
 # pip install pylibjpeg pylibjpeg-libjpeg
